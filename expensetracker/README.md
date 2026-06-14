@@ -3,7 +3,7 @@
 A secure and scalable REST API built with Django REST Framework for tracking personal expenses.
 
 ## 🚀 Live Demo
-[Coming soon - Deploying on Render]
+https://expense-tracker-api-5wvh.onrender.com/api/
 
 ## ✨ Features
 - JWT Authentication (Register/Login/Logout)
